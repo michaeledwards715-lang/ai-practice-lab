@@ -16,7 +16,7 @@ A running record of what I'm learning on the way to becoming an AI business prac
 3. **Any step that involves money or a relationship needs a human in the loop.** Approving deals, sending quotes, and emailing partners as me should all go past a person first.
 
 **In my own words: context window**
-> The context window is ______. It's like ______. If you go past it, ______.
+> The context window is chat or agents background material you provide is. It's like a local map. If you go past it, you are in a different town and different subject.
 
 **What I'm working on**
 - Keep explanations to 1 to 2 sentences: what it is, an everyday comparison, why a business cares
