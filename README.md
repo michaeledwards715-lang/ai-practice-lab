@@ -6,9 +6,11 @@ Hands-on AI practice: from the basics to building multi-agent systems for real b
 Build the skills to design AI workflows and agents and bring them to clients, bridging consulting and software.
 
 ## About me
-- 16 years working and trying to become great at AI
-- Partnership level role
-- eventually have enough money to buy a european soccer team
+
+- 8 years in consulting and 8 in software, now building hands-on AI skills to connect the two
+- Aiming for a partnerships role at the intersection of consulting and software
+- Long term: run my own AI consulting business, and one day buy a European soccer team
+
 
 ## Levels
 | Level | Focus | Status |
