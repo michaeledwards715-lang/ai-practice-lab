@@ -15,7 +15,7 @@ A running record of what I'm learning on the way to becoming an AI business prac
 2. **Instructions and guardrails are different.** An instruction tells the AI what to do ("offer other times"). A guardrail is a hard limit on what it can never do ("never spend over $100," "read-only access").
 3. **Any step that involves money or a relationship needs a human in the loop.** Approving deals, sending quotes, and emailing partners as me should all go past a person first.
 
-**In my own words: context window**
+**In my own words: context window (first try)**
 > The context window is chat or agents background material you provide is. It's like a local map. If you go past it, you are in a different town and different subject.
 
 **What I'm working on**
@@ -24,3 +24,13 @@ A running record of what I'm learning on the way to becoming an AI business prac
 - Name the concept out loud (e.g. "that's RAG") when I'm using it
 
 **Next:** Level 0 checkpoint, a role-play explaining AI to an office manager.
+
+## 2026-11-25 · Level 0: wrap-up
+
+**In my own words: context window**
+> The context window is the most information the AI can hold at once, like a window that only shows part of the view. Paste in 800 pages when it holds 500, and some pages silently drop out, so you get confident answers from incomplete information.
+
+**How I'd pitch a first AI pilot (office manager example)**
+> Run a 100-lease pilot where the AI checks whether each lease allows dogs. I'll spot-check 20 against the actual leases. If the AI matches my check on at least 19 of 20, we roll it out to all 400.
+
+**What clicked:** "context" is what you put in; "window" is how much the AI can see at once.
