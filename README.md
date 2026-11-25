@@ -15,7 +15,7 @@ Build the skills to design AI workflows and agents and bring them to clients, br
 ## Levels
 | Level | Focus | Status |
 |---|---|---|
-| 0 | Foundations: vocabulary, use cases | In progress |
+| 0 | Foundations: vocabulary, use cases | ✅ Complete (Nov 25, 2026) |
 | 1 | GitHub and repositories | Not started |
 | 2 | Prompting and evals | Not started |
 | 3 | Workflow automation | Not started |
@@ -25,5 +25,5 @@ Build the skills to design AI workflows and agents and bring them to clients, br
 | 7 | Consulting and pitching | Not started |
 
 ## Files
-- [use-cases.md](use-cases.md): AI use cases sorted into chatbot, workflow, or agent
+- [use-cases.md](use-cases.md): a catalog of AI use cases sorted into chatbot, workflow, or agent
 - [learning-log.md](learning-log.md): what I learn each day
